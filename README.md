@@ -46,14 +46,14 @@ Panel truck have low current and old claim amount.
 9.  Urban areas see a higher concentration of customers with children than rural areas. Most customers with children have not made any insurance claims, with a few making multiple claims.
 
 # Recommendations :
-1). Insurance companies should consider tailoring marketing campaigns or providing special benefits for female and married individuals, as they represent a higher proportion of claimants.
-2). Utilize historical trends in claims data to adjust pricing and risk models, particularly focusing on periods or age groups that exhibit higher claim frequencies.
-3). Adjust premium rates for private car owners to reflect the higher risk. 
-4). Insurance providers should focus on offering special programs or incentives for blue-collar workers, such as risk management advice or tailored discounts, to help reduce their claim frequency.
-5). consider higher premiums for vehicles over 8 years old to reflect the lower claim frequency.
-6). Consider offering discounts or loyalty programs targeted at highly educated individuals, as they appear to pose lower risk in terms of claim frequency.
-7). Insurance companies should adjust premiums for SUVs and Pickup trucks based on their higher current claim amounts.
-8). Offer targeted incentives or premium discounts for customers with no claims, particularly for women and married individuals who are more likely to belong to this group. This could help attract and retain customers who are lower-risk and potentially foster loyalty through "no-claims" bonuses.
+1. Insurance companies should consider tailoring marketing campaigns or providing special benefits for female and married individuals, as they represent a higher proportion of claimants.
+2. Utilize historical trends in claims data to adjust pricing and risk models, particularly focusing on periods or age groups that exhibit higher claim frequencies.
+3. Adjust premium rates for private car owners to reflect the higher risk. 
+4. Insurance providers should focus on offering special programs or incentives for blue-collar workers, such as risk management advice or tailored discounts, to help reduce their claim frequency.
+5. consider higher premiums for vehicles over 8 years old to reflect the lower claim frequency.
+6. Consider offering discounts or loyalty programs targeted at highly educated individuals, as they appear to pose lower risk in terms of claim frequency.
+7. Insurance companies should adjust premiums for SUVs and Pickup trucks based on their higher current claim amounts.
+8. Offer targeted incentives or premium discounts for customers with no claims, particularly for women and married individuals who are more likely to belong to this group. This could help attract and retain customers who are lower-risk and potentially foster loyalty through "no-claims" bonuses.
 
 By using these recommendations, insurers can improve their risk assessment, pricing strategies, and customer satisfaction while also fostering more responsible driving behavior among different segments.
 
