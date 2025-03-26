@@ -1,7 +1,6 @@
-I have created comprehensive Project in Tableau to create multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data wrangling, and data visualization
 
-# 
-Description: This analysis focused on car insurance claim data to detect patterns and trends that could enhance claims processing and boost customer satisfaction. Data preparation was done in Excel, while Tableau was utilized for visualizing the insights and trends, aiding in more effective decision-making.
+# Description:  
+This analysis focused on car insurance claim data to detect patterns and trends that could enhance claims processing and boost customer satisfaction. Data preparation was done in Excel, while Tableau was utilized for visualizing the insights and trends, aiding in more effective decision-making.
 
 # Problem Statements:
 1.    Number of Individuals based on Gender and their Marital status. 
