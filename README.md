@@ -1,4 +1,4 @@
-# HR Analysis
+# Car Insurance Claim (US)
 ## Description:  
 This analysis focused on car insurance claim data to detect patterns and trends that could enhance claims processing and boost customer satisfaction. Data preparation was done in Excel, while Tableau was utilized for visualizing the insights and trends, aiding in more effective decision-making.
 
