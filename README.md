@@ -32,6 +32,12 @@ Description: This analysis focused on car insurance claim data to detect pattern
 26.   No Claim vs Birth Year. 
 27.   NO claim based on Occupation.  
 
+# Process:
+1. Impoet the dataset for data preprocessing and data cleaning to remove anomalies.
+2. Verify data for any missing values and anomalies, and sort out the same.
+3. Made sure data is consistent and clean with respect to data type, data format and values used.
+4. Then Load the data for building visuals. and you can also create measures according to need.
+
 # Insights
 1.  Claim Contribution of  Female and married individual are high compared to single individual. In year 1951, Claim frequency of both Male and Female are higher compared to other years. And lowest claim frequency is in Year 1983(0 claim).
 2.  Private cars claim frequency is higher compared to Commercial cars.
