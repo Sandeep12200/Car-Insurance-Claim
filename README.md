@@ -1,8 +1,8 @@
-
+# HR Analysis
 # Description:  
 This analysis focused on car insurance claim data to detect patterns and trends that could enhance claims processing and boost customer satisfaction. Data preparation was done in Excel, while Tableau was utilized for visualizing the insights and trends, aiding in more effective decision-making.
 
-# Problem Statements:
+## Problem Statements:
 1.    Number of Individuals based on Gender and their Marital status. 
 2.    Number of Individual according to their Education and Occupation. 
 3.    Car Type Based on number of individual. 
@@ -31,13 +31,13 @@ This analysis focused on car insurance claim data to detect patterns and trends 
 26.   No Claim vs Birth Year. 
 27.   NO claim based on Occupation.  
 
-# Process:
+## Process:
 1. Impoet the dataset for data preprocessing and data cleaning to remove anomalies.
 2. Verify data for any missing values and anomalies, and sort out the same.
 3. Made sure data is consistent and clean with respect to data type, data format and values used.
 4. Then Load the data for building visuals. and you can also create measures according to need.
 
-# Insights
+## Insights
 1.  Claim Contribution of  Female and married individual are high compared to single individual. In year 1951, Claim frequency of both Male and Female are higher compared to other years. And lowest claim frequency is in Year 1983(0 claim).
 2.  Private cars claim frequency is higher compared to Commercial cars.
 3.  Blue collar Individual have higher Claim frequency And Doctors have lower claim.
@@ -50,7 +50,7 @@ Panel truck have low current and old claim amount.
 8.  From overall No-claims, The majority of customers (50.7%) have no claims. More women and married individuals belong to the no-claim group.
 9.  Urban areas see a higher concentration of customers with children than rural areas. Most customers with children have not made any insurance claims, with a few making multiple claims.
 
-# Recommendations :
+## Recommendations :
 1. Insurance companies should consider tailoring marketing campaigns or providing special benefits for female and married individuals, as they represent a higher proportion of claimants.
 2. Utilize historical trends in claims data to adjust pricing and risk models, particularly focusing on periods or age groups that exhibit higher claim frequencies.
 3. Adjust premium rates for private car owners to reflect the higher risk. 
